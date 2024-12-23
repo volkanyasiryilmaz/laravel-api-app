@@ -1,0 +1,52 @@
+{
+    "Whatsapp": {
+        "Whatsapp Ayar1 Açıklama satırı": "Whatsapp web de numaranın yazıldığı xpath bölümü.",
+        "Whatsapp Ayar2 Açıklama satırı": "Whatsapp web de numaranın rehberde olup olmadığının kontrolünün Xpath değeri",
+        "Whatsapp Ayar3 Açıklama satırı": "Whatsapp web de numara geçersiz mi diye yapılan kontrolün xpath değeri",
+        "Whatsapp Ayar4 Açıklama satırı": "Whatsapp web de numara geçersiz ise açılan pencereyi otomatik kapatma butonunun xpath ayarı",
+        "Whatsapp Ayar5 Açıklama satırı": "Whatsapp web de resim ekleme butonunun xpath ayarı",
+        "Whatsapp Ayar6 Açıklama satırı": "Whatsapp web de eklenecek resmin yol bilgisini yollayan xpath ayarı",
+        "Whatsapp Ayar7 Açıklama satırı": "Whatsapp web de numarayı silme butonu xpath ayarı",
+        "Whatsapp Ayar8 Açıklama satırı": "Whatsapp web de eklenen video için yazılacak metnin xpath ayarı",
+        "Whatsapp Ayar9 Açıklama satırı": "Whatsapp web ggrup mesaj ayarı 1 xpath",
+        "Whatsapp Ayar10 Açıklama satırı": "Whatsapp web grup mesaj ayarı 2 xpath",
+        "Whatsapp Ayar11 Açıklama satırı": "Whatsapp web grup mesaj ayarı 3 cssselector",
+        "Whatsapp Ayar12 Açıklama satırı": "Whatsapp web grup mesaj ayarı 4 cssselector",
+        "Whatsapp Ayar13 Açıklama satırı": "Whatsapp web rehber dışı mesaj ayarı XPath",
+        "Whatsapp Ayar14 Açıklama satırı": "Whatsapp web dosya gönderme buton ayarı fullxpath",
+        "Whatsapp Ayar15 Açıklama satırı": "Whatsapp web rehber dışı mesaj yollama linki",
+        "Whatsapp Ayar16 Açıklama satırı": "Whatsapp web mesaj yazma alanı",
+        "Whatsapp Ayar17 Açıklama satırı": "Whatsapp web fotoğraf mesaj yazma alanı",
+        "WhatsappAyar1": "\/\/p[@class='selectable-text copyable-text x15bjb6t x1n2onr6']",
+        "WhatsappAyar2": "(\/\/div[@class='x9f619 x78zum5 xdt5ytf x6s0dn4 x40yjcy x2b8uid x1c4vz4f x2lah0s xdl72j9 x1nhvcw1 xt7dq6l x15uerrv x13omvei x1j3kn9t x1m6arcz'])[1]",
+        "WhatsappAyar3": "(\/\/div[@class='x12lqup9 x1o1kx08'])[1]",
+        "WhatsappAyar4": "\/\/div[@class='x1c4vz4f xs83m0k xdl72j9 x1g77sc7 x78zum5 xozqiw3 x1oa3qoh x12fk4p8 xeuugli x2lwn1j x1nhvcw1 x1q0g3np xuk3077 x40hh3e']\/\/button[@class='x889kno x1a8lsjc xbbxn1n xxbr6pl x1n2onr6 x1rg5ohu xk50ysn x1f6kntn xyesn5m x1z11no5 xjy5m1g x1mnwbp6 x4pb5v6 x178xt8z xm81vs4 xso031l xy80clv x13fuv20 xu3j5b3 x1q0q8m5 x26u7qi x1v8p93f xogb00i x16stqrj x1ftr3km x1hl8ikr xfagghw x9dyr19 x9lcvmn xbtce8p x14v0smp xo8ufso xcjl5na x1k3x3db xuxw1ft xv52azi']",
+        "WhatsappAyar5": "\/\/button[@title='Ekle']",
+        "WhatsappAyar6": "\/\/body[1]\/div[1]\/div[1]\/div[1]\/span[5]\/div[1]\/ul[1]\/div[1]\/div[1]\/div[2]\/li[1]\/div[1]\/input[1]",
+        "WhatsappAyar7": "\/\/button[@aria-label='Aramayı iptal et']",
+        "WhatsappAyar8": "\/html\/body\/div[1]\/div\/div\/div[2]\/div[2]\/span\/div\/span\/div\/div\/div[2]\/div\/div[1]\/div[3]\/div\/div[2]\/div[1]\/div[2]",
+        "WhatsappAyar9": "\/\/div[@data-testid='popup-controls-ok']",
+        "WhatsappAyar10": "\/\/div[@data-testid='popup-controls-ok']",
+        "WhatsappAyar11": "#app > div > span:nth-child(2) > div > div > div > div > div > div > div._2Nr6U > div",
+        "WhatsappAyar12": "#app > div > span:nth-child(2) > div > div > div > div > div > div > div._2i3w0 > div > div",
+        "WhatsappAyar13": "\/\/div[@data-testid='search-no-chats-or-contacts']",
+        "WhatsappAyar14": "\/\/div[@aria-label='Gönder']",
+        "WhatsappAyar15": "https:\/\/web.whatsapp.com\/send?phone=+",
+        "WhatsappAyar16": "\/\/div[@aria-placeholder='",
+        "WhatsappAyar17": "\/\/div[@aria-placeholder='"
+    },
+    "Sms": {
+        "Sms Ayar1 açıklama satırı": "Sohbete başla butonunun XPath değeri",
+        "Sms Ayar2 açıklama satırı": "Numara yazma alanının XPath değeri",
+        "Sms Ayar3 açıklama satırı": "Mesaj yazma bölümünün XPath değeri",
+        "SmsAyar1": "111",
+        "SmsAyar2": "\/\/input[@placeholder='Ad, telefon numarası veya e-posta adresi yazın']",
+        "SmsAyar3": "\/\/textarea[@placeholder='Mesajlaşma']"
+    },
+    "Duyuru": {
+        "YeniDuyuru": "Yeni versiyonumuzla birlikte gelen özellikleri izlemek için aşağıdaki linkten faydalanabilirsiniz.\n\nLink: https:\/\/www.youtube.com\/watch?v=BnpokIV30uo&pp=ygUId21lc3NhZ2U%3D",
+        "BirAyet": "Allah size, emanetleri mutlaka ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Doğrusu Allah, bununla size ne güzel öğüt veriyor! Şüphesiz ki Allah hakkıyla işitendir, hakkıyla görendir.\n\n(Nisâ, 4\/58)",
+        "BirHadis": "“Cennet size ayakkabınızın bağından daha yakındır; csehennem de öyledir.”\n\n(Buhârî, 'Rikak', 29 )",
+        "GununSozu": "Merhаmet, insаnlık mâdeninin en kıymetli cevheridir. \n\nMаrk Twаin "
+    }
+}

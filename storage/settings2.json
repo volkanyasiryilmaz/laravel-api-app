@@ -1,0 +1,71 @@
+{
+    "Whatsapp": {
+    "Whatsapp Ayar1 Açıklama satırı":"Whatsapp web de numaranın yazıldığı xpath bölümü.",
+    "Whatsapp Ayar2 Açıklama satırı":"Whatsapp web de numaranın rehberde olup olmadığının kontrolünün Xpath değeri",
+    "Whatsapp Ayar3 Açıklama satırı":"Whatsapp web de numara geçersiz mi diye yapılan kontrolün xpath değeri",
+    "Whatsapp Ayar4 Açıklama satırı":"Whatsapp web de numara geçersiz ise açılan pencereyi otomatik kapatma butonunun xpath ayarı",
+    "Whatsapp Ayar5 Açıklama satırı":"Whatsapp web de resim ekleme butonunun xpath ayarı",
+    "Whatsapp Ayar6 Açıklama satırı":"Whatsapp web de eklenecek resmin yol bilgisini yollayan xpath ayarı",
+    "Whatsapp Ayar7 Açıklama satırı":"Whatsapp web de numarayı silme butonu xpath ayarı",
+    "Whatsapp Ayar8 Açıklama satırı":"Whatsapp web de eklenen video için yazılacak metnin xpath ayarı",
+    "Whatsapp Ayar9 Açıklama satırı":"Whatsapp web ggrup mesaj ayarı 1 xpath",
+    "Whatsapp Ayar10 Açıklama satırı":"Whatsapp web grup mesaj ayarı 2 xpath",
+    "Whatsapp Ayar11 Açıklama satırı":"Whatsapp web grup mesaj ayarı 3 cssselector",
+    "Whatsapp Ayar12 Açıklama satırı":"Whatsapp web grup mesaj ayarı 4 cssselector",
+    "Whatsapp Ayar13 Açıklama satırı":"Whatsapp web rehber dışı mesaj ayarı XPath",
+    "Whatsapp Ayar14 Açıklama satırı":"Whatsapp web dosya gönderme buton ayarı fullxpath",
+    "Whatsapp Ayar15 Açıklama satırı":"Whatsapp web rehber dışı mesaj yollama linki",
+    
+
+    "WhatsappAyar1": "//div[@title='Arama metni giriş alanı']",
+    
+    "WhatsappAyar2": "//div[@data-testid='search-no-chats-or-contacts']",
+    
+    "WhatsappAyar3": "//div[@data-testid='popup-contents']",
+	    
+    "WhatsappAyar4": "//div[@data-testid='popup-controls-ok']",
+    
+    "WhatsappAyar5": "//div[@title='Ekle']",
+    
+    "WhatsappAyar6": "//button[@aria-label='Fotoğraflar ve Videolar']/input",
+    
+    "WhatsappAyar7": "//button[@aria-label='Aramayı iptal et']",
+    
+    "WhatsappAyar8": "/html/body/div[1]/div/div/div[2]/div[2]/span/div/span/div/div/div[2]/div/div[1]/div[3]/div/div[2]/div[1]/div[2]",
+    
+    "WhatsappAyar9": "//div[@data-testid='popup-controls-ok']",
+    
+    "WhatsappAyar10": "//div[@data-testid='popup-controls-ok']",
+    
+    "WhatsappAyar11": "#app > div > span:nth-child(2) > div > div > div > div > div > div > div._2Nr6U > div",
+    
+    "WhatsappAyar12": "#app > div > span:nth-child(2) > div > div > div > div > div > div > div._2i3w0 > div > div",
+    
+    "WhatsappAyar13": "//div[@data-testid='search-no-chats-or-contacts']",
+    
+    "WhatsappAyar14": "//div[@aria-label='Gönder']",
+    "WhatsappAyar15": "https://web.whatsapp.com/send?phone="
+	
+    
+    
+  },
+  "Sms": {
+    "Sms Ayar1 açıklama satırı":"Sohbete başla butonunun XPath değeri",
+    "Sms Ayar2 açıklama satırı":"Numara yazma alanının XPath değeri",  
+    "Sms Ayar3 açıklama satırı":"Mesaj yazma bölümünün XPath değeri",
+    
+    "SmsAyar1": "//span[@class='mdc-button__label']",
+    
+    "SmsAyar2": "//input[@placeholder='Ad, telefon numarası veya e-posta adresi yazın']",
+    
+    "SmsAyar3": "//textarea[@placeholder='Mesajlaşma']"
+
+    
+  },
+  "Duyuru":{
+      "YeniDuyuru":"Hayırlı Ramazanlar değerli kullanıcımız.\nGünlük duyurularımızı buradan takip edebilirsiniz. Yeni versiyonumuzla birlikte gelen özellikleri izlemek için aşağıdaki linkten faydalanabilirsiniz.",
+	  "BirAyet":"Allah yolunda sevdiğiniz şeylerden harcamadıkça iyiliğe asla eremezsiniz. Ne harcarsanız Allah onu hakkıyla bilir.\nAli-i İmran,3/92",
+	  "BirHadis":"Allah rızâsı için bir gün oruç tutan kimseyi Allah Teâlâ, bu bir günlük oruç sebebiyle cehennem ateşinden yetmiş yıl uzak tutar.\nBuhârî, Cihâd 36; Müslim, Sıyâm 167-168",
+	  "GununSozu":"Bu aya hürmet gerek\nNimete şükür gerek\nMübarek Ramazan'da\nHakka ibadet gerek."
+  }
+}

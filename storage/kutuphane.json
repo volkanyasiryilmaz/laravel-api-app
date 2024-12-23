@@ -1,0 +1,31 @@
+{
+    "Kasif": {
+   "KasifAyar1":"//*[@id='drpFirst']",
+"KasifAyar2":"ISBN/ISSN",
+"KasifAyar3":"//*[@id='makadi']",
+"KasifAyar4":"//*[@id='form1']/div[3]/table/tbody/tr/td/table/tbody/tr[4]/td/div/div[2]/div[1]/div[4]",
+"KasifAyar5":"#dvKunyeSayi",
+"KasifAyar6":"//*[@id='dvSonuc']",
+"KasifAyar7":"#dvSonuc > div.SonucDiv1 > div.DivSonucImage",
+"KasifAyar8":"#cntPlcPortal_grdOzet > tbody > tr:nth-child(1) > td:nth-child(4)",
+"KasifAyar9":"#cntPlcPortal_grdOzet > tbody > tr:nth-child(2) > td:nth-child(4)",
+"KasifAyar10":"#cntPlcPortal_grdOzet > tbody > tr:nth-child(5) > td:nth-child(4)",
+"KasifAyar11":"#cntPlcPortal_grdOzet > tbody > tr:nth-child(6) > td:nth-child(4)"
+
+  },
+  "Koha": {
+"KohaAyar1":"//*[@id='search-field_0']",
+"KohaAyar2":"nb",
+"KohaAyar3":"(//input[@title='Arama terimlerini girin'])[1]",
+"KohaAyar4":"//div[@class='container-fluid']//input[@title='Ara']",
+"KohaAyar5":"//*[@id='bookbag_form']",
+"KohaAyar6":"/html/body/div/div[4]/div/div/div[2]/div/div[2]/form[1]/table/tbody/tr[1]/td[3]/div[2]/a",
+"KohaAyar7":"#numresults",
+"KohaAyar8":".title",
+"KohaAyar9":"span[property='yazar'] span[property='name']",
+"KohaAyar10":"span[property='katkıda bulunan'] span[property='name']",
+"KohaAyar11":"span[property = 'publisher'] > span[property = 'name']",
+"KohaAyar12":"span[property = 'datePublished']",
+"KohaAyar13":"span[property='description']"    
+  } 
+}
